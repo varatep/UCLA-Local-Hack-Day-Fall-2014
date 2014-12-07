@@ -1,0 +1,67 @@
+{ "results": [
+	{
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "1",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "De Neve",
+        "open_time" : "9:30 AM",
+        "close_time" : "12:00 AM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "2",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "Covel",
+        "open_time" : "9:30 AM",
+        "close_time" : "9:00 PM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "3",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "Bruin Plate",
+        "open_time" : "10:00 AM",
+        "close_time" : "8:00 PM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "4",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "Bruin Cafe",
+        "open_time" : "3:00 PM",
+        "close_time" : "2:00 AM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "5",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "FEAST at Rieber",
+        "open_time" : "8:00 AM",
+        "close_time" : "2:00 AM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "6",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "Cafe 1919",
+        "open_time" : "8:00 AM",
+        "close_time" : "2:00 AM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "7",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "De Neve on the Go",
+        "open_time" : "8:00 AM",
+        "close_time" : "2:00 AM"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "objectId": "8",
+        "updatedAt": "2014-12-06T19:15:18.125Z",
+        "restauraunt_name" : "Rendezvous at Hedrick",
+        "open_time" : "8:00 AM",
+        "close_time" : "2:00 AM"
+    },
+]
+}

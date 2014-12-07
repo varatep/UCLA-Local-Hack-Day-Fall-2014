@@ -1,0 +1,51 @@
+{ "results": [
+	{
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Water, Steel Cut Oatmeal, Sea Salt",
+        "name": "Oatmeal",
+        "objectId": "1",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Eggs, Trans-Fat Free Margarine",
+        "name": "Fried Eggs",
+        "objectId": "2",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Beef Stock (Water, Beef Base), Eggs, Roma Tomatoes, Beef, Onion, Olive Oil Blend, Sea Salt, Black Pepper, Onion Powder, Cumin, Garlic Powder, Cayenne Pepper, Bay Leaf",
+        "name": "Eggs Machaca",
+        "objectId": "3",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Pancake Mix, Water, Blueberries, Trans-Fat Free Margarine",
+        "name": "Blueberry Pancakes",
+        "objectId": "4",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Cake Flour, Buttermilk, All Purpose Flour, Half & Half, Butter, Sugar, Baking Powder, Salt",
+        "name": "Biscuit",
+        "objectId": "5",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    },
+    {
+        "createdAt": "2014-12-06T19:14:21.478Z",
+        "description": "No description",
+        "ingredients": "Creme Cake Batter (Creme Cake Mix, Canola Oil, Eggs, Water), Walnuts, Banana Paste",
+        "name": "Banana Nut Muffin",
+        "objectId": "6",
+        "updatedAt": "2014-12-06T19:15:18.125Z"
+    }
+]
+}

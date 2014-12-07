@@ -1,0 +1,8 @@
+{
+  "name": "UCLA-Menu-Me",
+  "description": "app to find restauraunts and their menus with respect to meal times",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
